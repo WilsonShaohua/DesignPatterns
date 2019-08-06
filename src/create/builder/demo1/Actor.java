@@ -1,11 +1,11 @@
 package create.builder.demo1;
 
 public class Actor {
-	private String type; //½ÇÉ«ÀàÐÍ
-	private String sex; //ÐÔ±ð
-	private String face; //Á³ÐÍ
-	private String costume; //·þÊÎ
-	private String hairstyle; //·¢ÐÍ
+	private String type; //ï¿½ï¿½É«ï¿½ï¿½ï¿½ï¿½
+	private String sex; //ï¿½Ô±ï¿½
+	private String face; //ï¿½ï¿½ï¿½ï¿½
+	private String costume; //ï¿½ï¿½ï¿½ï¿½
+	private String hairstyle; //ï¿½ï¿½ï¿½ï¿½
 	public String getType() {
 		return type;
 	}
