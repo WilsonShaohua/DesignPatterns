@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<Key>far</Key>
+<ClassName>create.prototype.demo3.FAR</ClassName>
+<Key>srs</Key>
+<ClassName>create.prototype.demo3.SRS</ClassName>
+</config>

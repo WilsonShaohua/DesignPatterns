@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>create.factory.demo6.abstract_factory.SpringSkinFactory</className>
+</config>
